@@ -1,2 +1,3 @@
 # hello-world
-OMG I'm new to this.
+Programmer: Sam Holton
+Why: Cause I'm learning to program.
